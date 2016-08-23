@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (2.0.2)
+  - SwiftOpenWeatherMapAPI (0.0.8):
+    - Alamofire (~> 2.0)
+    - SwiftyJSON (~> 2.3.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - SwiftOpenWeatherMapAPI
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  SwiftOpenWeatherMapAPI: 4c9cfafe5de8af623dc7a06d2e8c564295ee7dba
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0

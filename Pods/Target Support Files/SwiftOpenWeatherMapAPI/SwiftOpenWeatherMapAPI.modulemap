@@ -1,0 +1,6 @@
+framework module SwiftOpenWeatherMapAPI {
+  umbrella header "SwiftOpenWeatherMapAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
